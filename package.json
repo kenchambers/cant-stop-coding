@@ -2,7 +2,7 @@
   "name": "cant-stop-coding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kenchambers.github.io/cant-stop-coding",
+  "homepage": "https://nodefiend.github.io/cant-stop-coding",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
